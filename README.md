@@ -20,13 +20,30 @@ Extract comprehensive cycling statistics and race data from ProCyclingStats.com,
 | Stat | Value |
 |------|-------|
 | **Version** | `0.1.2` |
-| **Last Update** | Nov 30, 2025 |
+| **Last Update** | Dec 1, 2025 |
 
 ---
 
 
 
 The ProCyclingStats Scraper is a web scraping tool designed to extract cycling statistics and race data from procyclingstats.com. It was created to make it easier for cycling professionals, analysts, and enthusiasts to access structured data from the world's most comprehensive cycling statistics database.
+
+
+## 💻 Integration Examples
+
+This repository includes example code showing how to integrate the `procyclingstats-com-scraper` actor into your projects.
+
+You can find example implementations in the [`examples/`](./examples) folder:
+- **TypeScript/JavaScript**: See [`examples/typescript/`](./examples/typescript) for a complete TypeScript example
+- **Python**: See [`examples/python/`](./examples/python) for a complete Python example
+
+Each example includes:
+- Ready-to-use code templates
+- Setup instructions
+- Documentation links
+
+---
+
 
 ## Use Cases
 
